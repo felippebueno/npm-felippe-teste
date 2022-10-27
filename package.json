@@ -1,0 +1,19 @@
+{
+  "name": "wwebapi",
+  "version": "1.0.0",
+  "description": "wwebapi desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felippebueno/npm-felippe-teste.git"
+  },
+  "author": "“Felippe <“felippe@pedzap.com.br”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felippebueno/npm-felippe-teste/issues"
+  },
+  "homepage": "https://github.com/felippebueno/npm-felippe-teste#readme"
+}
